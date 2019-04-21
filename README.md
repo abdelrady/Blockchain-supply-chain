@@ -10,7 +10,8 @@ https://rinkeby.etherscan.io/address/0xCb8bb1A37EC1b06C425A533D7CdfA816f286A37f#
     * Truffle: v5.0.1 (core: 5.0.1)
     * Solidity v0.5.0 (solc-js)
     * Web3: web3@1.0.0-beta.34
-    
+
+* UML documents can be found under Project_UMLs folder in the repository
 
 # Supply chain & data auditing
 
