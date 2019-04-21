@@ -1,8 +1,16 @@
 SupplyChain Contract Address: 0xCb8bb1A37EC1b06C425A533D7CdfA816f286A37f
+
 Or
 https://rinkeby.etherscan.io/address/0xCb8bb1A37EC1b06C425A533D7CdfA816f286A37f#code
 
-
+* No other libraries used
+* IPFS step is not implemented
+* Versions: 
+    * Node: v10.14.2
+    * Truffle: v5.0.1 (core: 5.0.1)
+    * Solidity v0.5.0 (solc-js)
+    * Web3: web3@1.0.0-beta.34
+    
 
 # Supply chain & data auditing
 
