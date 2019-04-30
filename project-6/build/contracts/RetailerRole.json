@@ -2552,10 +2552,16 @@
       "links": {},
       "address": "0x95f66022c1Fa9387b9F36413822Cf266bfC4B74b",
       "transactionHash": "0x89546124ca776f7dc00b1ec4c4cc5790fd5fd65b87b0da2bc23ed215992f863f"
+    },
+    "1555819312126": {
+      "events": {},
+      "links": {},
+      "address": "0x2BE48965d744415033f060776E08ae02f3478FC8",
+      "transactionHash": "0x192acc5337837a99bd264e0259922ee44a941ec973751be796d21bb98c105a54"
     }
   },
   "schemaVersion": "3.0.1",
-  "updatedAt": "2019-04-21T04:23:19.789Z",
+  "updatedAt": "2019-04-21T05:42:10.649Z",
   "devdoc": {
     "methods": {}
   },
